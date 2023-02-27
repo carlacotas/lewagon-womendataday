@@ -18,4 +18,7 @@ This project contains the solution submitted for evaluation for the Take-Home Ch
 <p/>
 
 `Challenge.ipynb`: This is the main file for the Take-Home Challenge solutions (using Google Colab), with Python code.
+
+<p/>
+
 `IMDb movies.csv`: This is the dataset for Data Sourcing and EDA with Pandas 
