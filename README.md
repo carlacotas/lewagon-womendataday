@@ -1,5 +1,5 @@
 # Le Wagon Lisbon - Women Data Day (September 2021)
-# Take-Home Challenge: Python 101, Data Sourcing and EDA with Pandas, Web Scraping 👩‍💻📈📊
+# Take-Home Challenge: Python 101, Data Sourcing and EDA with Pandas, Web Scraping 🎥👩‍💻📈📊
 
 This project contains the solution submitted for evaluation for the Take-Home Challenge of [Women Data Day](https://info.lewagon.com/women-data-day-lisbon#admission) from [Le Wagon Lisbon](https://www.lewagon.com/lisbon) 
 
